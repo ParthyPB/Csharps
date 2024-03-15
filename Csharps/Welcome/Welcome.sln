@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Welcome", "Welcome.csproj", "{6815C210-277A-4601-98FB-BFC683DD2BF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parthi.Inharitance", "..\Parthi.Inharitance\Parthi.Inharitance.csproj", "{6D1B733E-4F48-4C6F-B797-584CBE7D141E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{6815C210-277A-4601-98FB-BFC683DD2BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6815C210-277A-4601-98FB-BFC683DD2BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6815C210-277A-4601-98FB-BFC683DD2BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1B733E-4F48-4C6F-B797-584CBE7D141E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1B733E-4F48-4C6F-B797-584CBE7D141E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1B733E-4F48-4C6F-B797-584CBE7D141E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1B733E-4F48-4C6F-B797-584CBE7D141E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
